@@ -23,6 +23,6 @@ My current location is Pune, IN and my hometown is near Delhi, IN. I love to tra
 * Hadoop & Hive
 
 ### Certifications
-▪ Infosys Certified Power BI Developer | Infosys Ltd.
-▪ Microsoft Access 2016 Master class | Udemy
-▪ Python 101 for Data Science | Cognitive Class.ai
+* Infosys Certified Power BI Developer | Infosys Ltd.
+* Microsoft Access 2016 Master class | Udemy
+* Python 101 for Data Science | Cognitive Class.ai
