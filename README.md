@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### About Me
 I studied Mechanical Engineering but destiny brought me to IT World and I started my career with Infosys. Initially i was trained in basic IT skills and then i got mapped to Telecom Domain Project of US client (Fortune 500 Company).
 
@@ -13,16 +11,16 @@ I take part in online Data Science related hackathons and keep my learning curve
 My current location is Pune, IN and my hometown is near Delhi, IN. I love to travel and explore places. I also keep an eye on major events happening around the world and read about issues related to National Security.
 
 ### Skills
-▪ Machine Learning
-▪ Python
-▪ Microsoft Power BI
-▪ DAX
-▪ MySQL, Oracle, MS SQL Server
-▪ Microsoft Access
-▪ Microsoft Excel
-▪ Statistics
-▪ EDA
-▪ Hadoop & Hive
+* Machine Learning
+* Python
+* Microsoft Power BI
+* DAX
+* MySQL, Oracle, MS SQL Server
+* Microsoft Access
+* Microsoft Excel
+* Statistics
+* EDA
+* Hadoop & Hive
 
 ### Certifications
 ▪ Infosys Certified Power BI Developer | Infosys Ltd.
